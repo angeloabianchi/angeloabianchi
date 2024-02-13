@@ -1,7 +1,13 @@
 ### Hello, World! 👋 
 
 ## About Me
-<p>🚀 I'm Angelo, and I am a passionate Fullstack Developer based in Barcelona, Spain. My journey in the tech world has been an exciting exploration of various technologies and frameworks. 🚀</p>
+Greetings from the vibrant tech scene in Barcelona! I'm Angelo, a dedicated Fullstack Developer with a zest for creating innovative and seamless digital experiences.
+
+### Journey into Tech Wonderland
+My journey began in the fascinating field of geophysics, where I delved into the mysteries beneath our feet. As a keen explorer, I utilized seismic data, electromagnetic methods, and more to unravel the geological intricacies of our planet. The thrill of deciphering Earth's secrets fueled my curiosity and set the stage for my journey into the world of programming.
+
+### Embracing the Fast-Paced Tech Odyssey
+Thriving in the fast-paced and ever-evolving tech industry is where I truly belong. This dynamic environment not only allows me to measure the tangible impact of my work but also constantly challenges my analytical skills and logical thinking on a daily basis. The excitement of tackling new challenges and adapting to industry shifts fuels my enthusiasm for continuous learning.
 
 <ul dir="auto">
   <li>
