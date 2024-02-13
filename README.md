@@ -3,6 +3,15 @@
 https://github-readme-stats.vercel.app/api?username=angeloabianchi&show_icons=true
 https://github-readme-stats.vercel.app/api/top-langs/?username=angeloabianchi&hide_progress=false&theme=dark
 
+
+<a href="https://github.com/angeloabianchi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angeloabianchi" />
+</a>
+<a href="https://github.com/angeloabianchi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angeloabianchi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 <!--
 **angeloabianchi/angeloabianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
