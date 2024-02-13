@@ -1,15 +1,53 @@
-### Hi there 👋
+### Hello, World! 👋 
 
-https://github-readme-stats.vercel.app/api?username=angeloabianchi&show_icons=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=angeloabianchi&hide_progress=false&theme=dark
+## About Me
+<p>🚀 I'm Angelo, and I am a passionate Fullstack Developer based in Barcelona, Spain. My journey in the tech world has been an exciting exploration of various technologies and frameworks. 🚀</p>
+
+<ul dir="auto">
+  <li>
+    <a href="https://github.com/angeloabianchi/github-readme-stats" style="margin: 100px;">
+      <img height=200 align="bottom" src="https://github-readme-stats.vercel.app/api?username=angeloabianchi&show_icons=true&theme=dark" style="max-width: 100%;"/>
+    </a>
+    <a href="https://github.com/angeloabianchi/convoychat">
+      <img height=300 align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloabianchi&hide_progress=false&theme=dark" style="max-width: 100%;"/>
+    </a>
+  </li>
+</ul>
+
+<h2>:computer: Programming languages </h2>
+<a href="https://html.spec.whatwg.org/"><img align="left" alt="HTML5 logo" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> </a>
+<a href="https://www.w3.org/Style/CSS/"><img align="left" alt="CSS3 logo" src="https://img.icons8.com/color/48/000000/css3.png" /></a>
+<img align="left" alt="JavaScript logo" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<a href="https://www.python.org/"> <img align="left" alt="Python logo" src="https://img.icons8.com/color/48/000000/python.png" /></a>
+<br />
+<br />
+<br />
+
+<h2>:hammer_and_wrench: Tools of the trade </h2>
+
+<a href="https://code.visualstudio.com/">
+<img align="left" alt="visual studio code logo" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="git logo" src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a href="https://ubuntu.com/">
+<img align="left" alt="ubuntu logo" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
+<!-- <a href="https://www.gimp.org/"><img src="https://img.shields.io/npm/v/react-icons.svg?style=flat-square"/></a> -->
+<br />
+<br />
+<br />
+
+## Let's Connect!
+<ul>
+  <li> ✉️ angeloalencarbianchi@gmail.com</li>
+  <li> 
+    <a href="https://www.linkedin.com/in/angeloabianchi/">
+      <img align="bottom" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465      " style="width: 10%;"/>
+    </a>
+  </li>
+</ul>
+<br />
+Feel free to reach out, and let's create something amazing together! 
 
 
-<a href="https://github.com/angeloabianchi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angeloabianchi&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/angeloabianchi/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloabianchi&hide_progress=false&theme=dark" />
-</a>
 
 
 <!--
@@ -19,7 +57,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...Hello 👋 I'm Angelo and I am a brazilian 🇧🇷 based in Spain.
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
