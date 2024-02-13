@@ -5,10 +5,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=angeloabianchi&hi
 
 
 <a href="https://github.com/angeloabianchi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angeloabianchi&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angeloabianchi&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/angeloabianchi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloabianchi&hide_progress=false&theme=dark" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloabianchi&hide_progress=false&theme=dark" />
 </a>
 
 
